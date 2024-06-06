@@ -1,0 +1,1 @@
+Popunite sef oružjem: Administrator može da koristi komandu /napunisef da bi dodao unapred definisano oružje u naveden sef. Ako sef ne postoji, obaveštenje će obavestiti igrača. Ako postoji, stavke će biti dodate i biće poslato obaveštenje o izvršenju.
