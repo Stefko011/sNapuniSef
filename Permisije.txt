@@ -1,0 +1,9 @@
+------------DODAJ U SERVER.CFG--------------
+------------ADD TO SERVER.CFG---------------
+
+# Add principal for admin group
+add_principal identifier.steam:VAŠ_STEAM_ID group.admin
+
+# Allow the admin group to use the commands
+add_ace group.admin command.napunisef allow
+
